@@ -1,0 +1,25 @@
+# Default owners
+* @your-team
+
+# Apps
+/apps/frontend/ @frontend-team
+/apps/backend/ @backend-team
+
+# Packages
+/packages/database/ @backend-team
+/packages/shared/ @backend-team
+
+# Documentation
+*.md @docs-team
+/docs/ @docs-team
+
+# CI/CD
+/.github/workflows/ @devops-team
+
+# Config files
+*.config.js @devops-team
+*.config.ts @devops-team
+.eslintrc.json @devops-team
+.prettierrc @devops-team
+turbo.json @devops-team
+tsconfig.json @devops-team

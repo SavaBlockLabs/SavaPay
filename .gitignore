@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Turborepo
+.turbo/
+
+# Next.js
+apps/frontend/.next/
+apps/frontend/out/
+
+# Build outputs
+dist/
+*/dist/
+
+# Build logs
+*.log
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Prisma
+packages/database/prisma/*.db
+packages/database/prisma/*.db-journal
+
+# ESLint & Prettier
+.eslintcache
+.prettiercache
+
+# Misc
+*.tsbuildinfo
