@@ -1,6 +1,6 @@
 # SavaPay
 
-[//]: # (/Users/ew/README.md#L5-32)
+[//]: # "/Users/ew/README.md#L5-32"
 
 Stablecoin Saving Platform.
 

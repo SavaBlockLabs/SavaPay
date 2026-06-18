@@ -1,7 +1,7 @@
-import express, { Request, Response } from 'express';
-import cors from 'cors';
-import helmet from 'helmet';
-import * as dotenv from 'dotenv';
+import express, { Request, Response } from "express";
+import cors from "cors";
+import helmet from "helmet";
+import * as dotenv from "dotenv";
 
 dotenv.config();
 
@@ -12,8 +12,8 @@ app.use(cors());
 app.use(helmet());
 app.use(express.json());
 
-app.get('/health', (_req: Request, res: Response) => {
-  res.json({ status: 'ok' });
+app.get("/health", (_req: Request, res: Response) => {
+  res.json({ status: "ok" });
 });
 
 app.listen(port, () => {

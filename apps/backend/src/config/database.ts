@@ -1,3 +1,3 @@
-import { prisma } from '@savafi/database';
+import { prisma } from "@savafi/database";
 
 export default prisma;
