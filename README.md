@@ -438,18 +438,17 @@ Open a GitHub Issue or start a GitHub Discussion.
 
 ## Acknowledgements
 
-- Stellar Development Foundation
-- Blend Protocol
-- Privy
-- Mercuryo
-- The Open Source Community
+- [Blend Protocol](https://blend.capital)
+- [Privy](https://privy.io/)
+- [Mercuryo](https://mercuryo.io/)
+- [The Open Source Community](https://opensource.org/)
 
 ---
 
 ## Links
 
-- Documentation
-- Whitepaper
-- Compliance Policies
+- [Documentation](https://prickle-kryptops-023.notion.site/SavaPay-Product-Documentation-383b31338d4c8057adb6de4779dd8c95?source=copy_link)
+- [Whitepaper](https://prickle-kryptops-023.notion.site/SavaPay-Whitepaper-383b31338d4c80149f14c65dffe8e1f7?source=copy_link)
+- [Compliance Policies](https://prickle-kryptops-023.notion.site/SavaPay-Compliance-and-Risk-Policies-383b31338d4c80319e65dff2e55e19eb?source=copy_link)
 - Architecture Documentation
-- GitHub Organization
+- [GitHub Organization](https://github.com/SavaBlockLabs/SavaPay)
