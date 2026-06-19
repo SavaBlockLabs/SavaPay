@@ -11,11 +11,11 @@ Stablecoin Saving Platform.
 
 ## Overview
 
-SavaFi is a Stellar-powered stablecoin savings platform designed to help Africans preserve and grow their wealth using digital dollars.
+SavaPay is a Stellar-powered stablecoin savings platform designed to help Africans preserve and grow their wealth using digital dollars.
 
 Across many African countries, inflation and currency depreciation continue to erode purchasing power and reduce the value of personal savings. Existing stablecoin solutions often require navigating exchanges, wallets, and DeFi protocols that are difficult for everyday users to understand.
 
-SavaFi simplifies the entire process into a single mobile application.
+SavaPay simplifies the entire process into a single mobile application.
 
 Users can:
 
